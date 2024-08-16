@@ -1,0 +1,13 @@
+mysql:
+    dbname: db01
+    host: 127.0.0.1
+    port: 3306
+port: 8080
+version: v0.0.3
+app:
+    cache1:
+        max-items: 100
+        item-size: 64
+    cache2:
+        max-items: 200
+        item-size: 80

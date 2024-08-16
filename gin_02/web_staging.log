@@ -1,0 +1,2 @@
+{"level":"INFO","time":"2024-08-16T18:09:16.762+0800","caller":"gin_02/main.go:74","msg":"Shutdowm Server ..."}
+{"level":"INFO","time":"2024-08-16T18:09:16.812+0800","caller":"gin_02/main.go:82","msg":"server existing ..."}

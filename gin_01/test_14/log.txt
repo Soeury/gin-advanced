@@ -1,0 +1,2 @@
+{"level":"INFO","time":"2024-08-12T19:08:40.305+0800","caller":"test_14/main.go:41","msg":"this is zap func","user":"zap_in_gin","msg":200}
+{"level":"INFO","time":"2024-08-12T19:08:40.327+0800","caller":"logger/logger.go:75","msg":"/zap","status":200,"path":"/zap","query":"","ip":"::1","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0","errors":"","cost":0.0210241}
